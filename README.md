@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazal0m" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development Courses (By:- CodeHelp Love Babbar)**
+- 🌱 I’m currently learning **MERN-Stack Web Development Courses (By:- Sheryians Coding School | Learn Coding in India)**
 
-- 💬 Ask me about **HTML| CSS| JAVA-Script| React.js, etc.**
+- 💬 Ask me about **HTML5 | CSS3 | Tailwind CSS | JAVA-Script | MongoDB | Express.js | React.js | Node.js**
 
 - 📫 How to reach me **shahbazalam4842@gmail.com**
 
