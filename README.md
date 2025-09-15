@@ -12,7 +12,7 @@ Here, you’ll discover:
 
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahbaz_al0m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahbaz_al0m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbazalam4842@gmail.com) 
 
 📂 **Linkfolio:** [shahbaz-linkfolio](https://shahbaz-linkfolio.vercel.app/) <br> 
@@ -45,8 +45,6 @@ Here, you’ll discover:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shahbazal0m&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 - Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🤗  
 
