@@ -1,5 +1,4 @@
 # Hey there, I’m Shahbaz Alam! Glad you’re here 
----
 
 Welcome to my little corner of GitHub!  
 I’m passionate about growing in my career as a **MERN Full Stack Web Developer**, picking up new tech skills, and making work life a *little* less overwhelming (and a lot more fun).  
@@ -26,9 +25,7 @@ Here, you’ll discover:
 ![](https://nirzak-streak-stats.vercel.app/?user=shahbazal0m&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
-<div align="center">
+<div align="start">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
@@ -36,14 +33,15 @@ Here, you’ll discover:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahbazal0m&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
+### ✍️ Random Dev Quote 
+---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+---
 ![](https://github-contributor-stats.vercel.app/api?username=shahbazal0m&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
----
 [![](https://visitcount.itsvg.in/api?id=shahbazal0m&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🤗  
