@@ -1,21 +1,25 @@
-# Hey there, I’m Shahbaz Alam! Glad you’re here 
+# 👋 Hey there, I’m Shahbaz Alam! Glad you’re here  
 
 Welcome to my little corner of GitHub!  
-I’m passionate about growing in my career as a **MERN Full Stack Web Developer**, picking up new tech skills, and making work life a *little* less overwhelming (and a lot more fun).  
+I’m a **MERN Full Stack Web Developer** who loves building scalable web apps, exploring new technologies, and sharing knowledge with the dev community.  
 
 Here, you’ll discover:  
 
 - 🚀 **Projects** I’m building, contributing to, and experimenting with  
 - 📚 **Lessons & insights** gained from real-world problem-solving and continuous learning  
-- 💡 Ideas & inspiration to support fellow developers and professionals mastering MERN full stack web development
+- 💡 Ideas & inspiration to support fellow developers and professionals mastering MERN stack development  
 
-
+---
 
 ## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahbaz_al0m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahbaz_al0m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbazalam4842@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahbaz_al0m) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahbaz_al0m) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbazalam4842@gmail.com)  
 
 📂 **Linkfolio:** [shahbaz-linkfolio](https://shahbaz-linkfolio.vercel.app/)
 
+---
 
 # 💻 Tech Stack
 
@@ -25,6 +29,7 @@ Here, you’ll discover:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
@@ -43,6 +48,7 @@ Here, you’ll discover:
 ### ☁️ Cloud & Deployment  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
 ### 🛠️ Tools & Platforms  
@@ -50,10 +56,13 @@ Here, you’ll discover:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)  
 
 ### 🎨 Design  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+
+---
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -64,21 +73,27 @@ Here, you’ll discover:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahbazal0m&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shahbazal0m&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=shahbazal0m&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
 - Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🤗  
 
-- Let’s connect, learn, and grow together—one repo at a time.  
-You bring the snacks, I’ll bring the code 🍪💻
+- Thanks for stopping by — let’s connect, collaborate, and grow together 🚀  
+
+🍪💻 You bring the snacks, I’ll bring the code 
