@@ -37,9 +37,10 @@ Here, you’ll discover:
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahbazal0m&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats-swart-delta-73.vercel.app/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shahbazal0m&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-swart-delta-73.vercel.app/api/top-langs/?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="start">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
