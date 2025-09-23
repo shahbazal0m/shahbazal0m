@@ -12,12 +12,11 @@ Here, you’ll discover:
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahbaz_al0m) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahbaz_al0m) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbazalam4842@gmail.com)  
-
-📂 **Linkfolio:** [shahbaz-linkfolio](https://shahbaz-linkfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam) 
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shahbaz_al0m) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shahbaz_al0m) 
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahbazalam4842@gmail.com)
+[![Linkfolio](https://img.shields.io/badge/Linkfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://shahbaz-linkfolio.vercel.app/)
 
 ---
 
@@ -83,6 +82,8 @@ Here, you’ll discover:
 - Adaptability & Continuous Learning 
 
 ---
+
+![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
