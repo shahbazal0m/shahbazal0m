@@ -70,8 +70,6 @@ Here, you’ll discover:
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-
-
 ---
 
 ## 🤝 Soft Skills  
