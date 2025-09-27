@@ -44,8 +44,8 @@ Here, you’ll discover:
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=shahbazal0m&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=shahbazal0m&theme=dark&hide_border=false)
 
 ---
 
@@ -60,7 +60,7 @@ Here, you’ll discover:
 
 - You bring the snacks, I’ll bring the code
   
-![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
+  ![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 
   
