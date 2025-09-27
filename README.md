@@ -11,7 +11,7 @@ Here, you’ll discover:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam) 
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white)](https://x.com/shahbaz_al0m) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shahbaz_al0m) 
@@ -20,7 +20,7 @@ Here, you’ll discover:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 | Category | Tools / Skills |
 |----------|----------------|
 | *Frontend* | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
@@ -33,7 +33,7 @@ Here, you’ll discover:
 
 ---
 
-## 🤝 Soft Skills  
+## Soft Skills  
 - Time Management  
 - Attention to Detail
 - Effective Communication  
@@ -42,11 +42,9 @@ Here, you’ll discover:
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahbazal0m&theme=dark&hide_border=false)<br/>
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=shahbazal0m&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
@@ -56,17 +54,13 @@ Here, you’ll discover:
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shahbazal0m&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🤗
 
-[![](https://visitcount.itsvg.in/api?id=shahbazal0m&icon=0&color=0)](https://visitcount.itsvg.in)
+- Thanks for stopping by — let’s connect, collaborate, and grow together
 
----
-
-- Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🤗  
-
-- Thanks for stopping by — let’s connect, collaborate, and grow together 🚀  
-
-🍪💻 You bring the snacks, I’ll bring the code 
+- You bring the snacks, I’ll bring the code
+  
+![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 
+  
