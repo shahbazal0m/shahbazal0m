@@ -54,8 +54,8 @@ Here, you’ll discover:
 - Thanks for stopping by — let’s connect, collaborate, and grow together
 
 - You bring the snacks, I’ll bring the code
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
+![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 
   
