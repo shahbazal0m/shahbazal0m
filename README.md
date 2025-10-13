@@ -12,11 +12,11 @@ Here, you’ll discover:
 ---
 
 ## Connect With Me
+[![Linkfolio](https://img.shields.io/badge/Linkfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://shahbaz-linkfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahbazalam4842@gmail.com)
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white)](https://x.com/shahbaz_al0m) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shahbaz_al0m) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahbazalam4842@gmail.com)
-[![Linkfolio](https://img.shields.io/badge/Linkfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://shahbaz-linkfolio.vercel.app/)
 
 ---
 
@@ -30,15 +30,6 @@ Here, you’ll discover:
 | *Design & Collaboration* | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=F7C922) |
 | *Other Interests* | ![ChatGPT](https://img.shields.io/badge/ChatGPT-00C97B?style=flat-square&logo=openai&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) |
 
-
----
-
-## Soft Skills  
-- Time Management  
-- Attention to Detail
-- Effective Communication  
-- Problem-Solving & Critical Thinking  
-- Adaptability & Continuous Learning 
 
 ---
 
@@ -56,6 +47,3 @@ Here, you’ll discover:
 - You bring the snacks, I’ll bring the code
 
 ![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
-
-  
