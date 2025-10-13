@@ -40,10 +40,8 @@ Here, you’ll discover:
 
 ---
 
-- Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🤗
-
+- Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place!
 - Thanks for stopping by — let’s connect, collaborate, and grow together
-
 - You bring the snacks, I’ll bring the code
 
 ![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
