@@ -7,9 +7,9 @@ I’m a **MERN Full Stack Web Developer** who loves building scalable web apps, 
 
 Here, you’ll discover:  
 
-- 🚀 **Projects** I’m building, contributing to, and experimenting with  
-- 📚 **Lessons & insights** gained from real-world problem-solving and continuous learning  
-- 💡 Ideas & inspiration to support fellow developers and professionals mastering MERN stack development  
+- **Projects** I’m building, contributing to, and experimenting with  
+- **Lessons & insights** gained from real-world problem-solving and continuous learning  
+- Ideas & inspiration to support fellow developers and professionals mastering MERN stack development  
 
 ---
 
