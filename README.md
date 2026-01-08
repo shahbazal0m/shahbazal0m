@@ -33,14 +33,13 @@ Here, you’ll discover:
 ---
 
 ## GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahbazal0m&theme=dark&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-### 👁️ Profile views counter
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbazal0m&show_icons=true&locale=en&layout=compact" alt="shahbazal0m" /></p>
 
-[![Shahbaz Alam profile views](https://u8views.com/api/v1/github/profiles/186622309/views/day-week-month-total-count.svg)](https://u8views.com/github/shahbazal0m)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazal0m&show_icons=true&locale=en" alt="shahbazal0m" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazal0m&" alt="shahbazal0m" /></p>
+
 
 ---
 
