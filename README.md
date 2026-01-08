@@ -44,10 +44,6 @@ Here, you’ll discover:
   <img src="https://nirzak-streak-stats.vercel.app/?user=shahbazal0m&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
-
-
-
-
 ---
 
 - Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place!
