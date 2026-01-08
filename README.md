@@ -1,7 +1,4 @@
 # Hey there, I’m Shahbaz Alam! Glad you’re here  
-
-![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
 Welcome to my little corner of GitHub!  
 I’m a **MERN Full Stack Web Developer** who loves building scalable web apps, exploring new technologies, and sharing knowledge with the dev community.  
 
@@ -39,6 +36,11 @@ Here, you’ll discover:
 ![](https://github-readme-stats.vercel.app/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shahbazal0m&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+### 👁️ Profile views counter
+
+[![Shahbaz Alam profile views](https://u8views.com/api/v1/github/profiles/186622309/views/day-week-month-total-count.svg)](https://u8views.com/github/shahbazal0m)
 
 ---
 
