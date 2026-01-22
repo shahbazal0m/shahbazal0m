@@ -1,9 +1,8 @@
-# Hey there, I’m Shahbaz Alam 👋  
-Glad you’re here!
+# Hey there, I’m Shahbaz Alam! Glad you’re here
 
 ![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-Welcome to my corner of GitHub 🚀  
+Welcome to my corner of GitHub!
 I’m a **MERN Stack Developer** focused on building modern, responsive, and scalable web applications while continuously improving my full-stack skills.
 
 Here you’ll find:
@@ -11,7 +10,8 @@ Here you’ll find:
 - 🚧 **Projects** I’m actively building and improving  
 - 📘 **Concept-based learning** from real development practice  
 - 🔍 Clean, structured code following best practices  
-- 🤝 Experiments, mini-projects, and full-stack implementations  
+- 🤝 Experiments, mini-projects, and full-stack implementations
+
 ---
 
 ## 🌐 Connect With Me
@@ -48,6 +48,6 @@ Here you’ll find:
 ---
 
 ✨ Whether you’re here to explore code, learn alongside me, or collaborate — welcome!  
-Let’s build, learn, and grow together 🚀  
+Let’s build, learn, and grow together.  
 
 ☕ *You bring the snacks, I’ll bring the code.*
