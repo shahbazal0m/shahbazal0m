@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-Welcome to my corner of GitHub!
+Welcome to my corner of GitHub 🚀  
 I’m a **MERN Stack Developer** focused on building modern, responsive, and scalable web applications while continuously improving my full-stack skills.
 
 Here you’ll find:
