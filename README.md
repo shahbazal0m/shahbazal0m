@@ -3,7 +3,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 Welcome to my corner of GitHub!
-
 I’m a **MERN Stack Developer** focused on building modern, responsive, and scalable web applications while continuously improving my full-stack skills.
 
 Here you’ll find:
@@ -25,6 +24,7 @@ Here you’ll find:
 ---
 
 ## 🛠️ Tech Stack
+
 | Category | Tools / Skills |
 |----------|----------------|
 | *Frontend* | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
@@ -34,10 +34,10 @@ Here you’ll find:
 | *Design & Collaboration* | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=F7C922) |
 | *Other Interests* | ![ChatGPT](https://img.shields.io/badge/ChatGPT-00C97B?style=flat-square&logo=openai&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) |
 
-
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
   <br><br>
@@ -49,6 +49,6 @@ Here you’ll find:
 ---
 
 ✨ Whether you’re here to explore code, learn alongside me, or collaborate — welcome!  
-Let’s build, learn, and grow together.  
+Let’s build, learn, and grow together 🚀
 
 ☕ *You bring the snacks, I’ll bring the code.*
