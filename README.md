@@ -15,11 +15,10 @@ Here you’ll find:
 ---
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Linkfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://shahbaz-alam.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://shahbaz-alam.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahbazalam4842@gmail.com)
-[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white)](https://x.com/shahbaz_al0m) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shahbaz_al0m) 
+[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white)](https://x.com/shahbaz_al0m)
 
 ---
 
