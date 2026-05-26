@@ -1,7 +1,7 @@
 # Hey there, I’m Shahbaz Alam! Glad you’re here
 
 ![Profile views](https://komarev.com/ghpvc/?username=shahbazal0m&label=Profile%20views&color=0e75b6&style=for-the-badge)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_LINK)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1RHOXGigmO0tCD1g7lh8HsUYj5hcLJTSE/view?usp=sharing)
 
 Welcome to my corner of GitHub!
 I’m a **MERN Stack Developer** focused on building modern, responsive, and scalable web applications while continuously improving my full-stack skills.
