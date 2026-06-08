@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### ⚡ Full Stack Web Developer · MERN Specialist · Turning ideas into pixels & APIs
+### Full Stack Web Developer · MERN Specialist · Turning ideas into pixels & APIs
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+MERN;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Clean+code+%2B+sharp+UI+%3D+my+thing;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```js
 const shahbaz = {
@@ -31,13 +31,13 @@ const shahbaz = {
 };
 ```
 
-- 🔭 &nbsp;Building full-stack web apps end-to-end — from DB schema to pixel-perfect UI
-- 💡 &nbsp;Obsessed with clean architecture, reusable components & smooth UX
-- ⚡ &nbsp;Fun fact: I debug faster with lo-fi beats playing in the background
+- &nbsp;Building full-stack web apps end-to-end — from DB schema to pixel-perfect UI
+- &nbsp;Obsessed with clean architecture, reusable components & smooth UX
+- &nbsp;Fun fact: I debug faster with lo-fi beats playing in the background
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
  
 | Category | Skills |
 |----------|--------|
@@ -51,7 +51,7 @@ const shahbaz = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
  
 <div align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
@@ -65,41 +65,41 @@ const shahbaz = {
 
 ---
 
-## 🏗️ MERN Project Architecture I Love
+## MERN Project Architecture I Love
 
 ```
-📦 project/
- ├── 🖥️  client/               ← React + Tailwind + Framer Motion
+ project/
+ ├──   client/               ← React + Tailwind + Framer Motion
  │    ├── components/
  │    ├── pages/
  │    ├── hooks/
  │    └── context/
  │
- ├── 🔧  server/               ← Node.js + Express.js
+ ├──   server/               ← Node.js + Express.js
  │    ├── routes/
  │    ├── controllers/
  │    ├── middleware/
  │    └── models/             ← Mongoose schemas
  │
- └── 🗄️  .env                  ← MongoDB Atlas URI + secrets
+ └──   .env                  ← MongoDB Atlas URI + secrets
 ```
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
  
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://shahbaz-alam.vercel.app/)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00C300)](mailto:shahbazalam4842@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:shahbazalam4842@gmail.com)
 [![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shahbaz_al0m)
  
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -116,7 +116,7 @@ const shahbaz = {
 ```
    ╔═══════════════════════════════════════════╗
    ║  Thanks for visiting! Let's build          ║
-   ║  something awesome together. 🚀            ║
+   ║  something awesome together.               ║
    ╚═══════════════════════════════════════════╝
 ```
 
