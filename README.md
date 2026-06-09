@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### Full Stack Web Developer · MERN Specialist · Turning ideas into pixels & APIs
+### ⚡ Full Stack Web Developer · MERN Specialist · Turning ideas into pixels & APIs
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+MERN;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Clean+code+%2B+sharp+UI+%3D+my+thing;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 ```js
 const shahbaz = {
@@ -27,7 +27,10 @@ const shahbaz = {
   currentFocus: ["Docker", "Kubernetes", "AWS"],
   workStyle   : "Ship fast. Refactor smart. Learn always.",
   motto       : "If it works, make it better. If it breaks, make it bulletproof.",
-  status      : "open to work ●"
+  status      : "open to work",
+  portfolio   : "https://shahbaz-alam.vercel.app",  
+  funFact     : "I debug better with lo-fi on 🎧",   
+  available   : true                                  
 };
 ```
 
@@ -37,7 +40,7 @@ const shahbaz = {
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
  
 | Category | Skills |
 |----------|--------|
@@ -51,7 +54,7 @@ const shahbaz = {
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
  
 <div align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
@@ -65,7 +68,7 @@ const shahbaz = {
 
 ---
 
-## MERN Project Architecture I Love
+## 🏗️ MERN Project Architecture I Love
 
 ```
  project/
@@ -86,20 +89,20 @@ const shahbaz = {
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
  
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahbaz-alam)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://shahbaz-alam.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shahbaz-alam.vercel.app/)
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:shahbazalam4842@gmail.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shahbaz_al0m)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shahbaz_al0m)
  
 </div>
 
 ---
 
-## Random Dev Quote
+## ✍️ Random Dev Quote
 
 <div align="center">
 
