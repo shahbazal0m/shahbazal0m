@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### ⚡ Full Stack Web Developer · MERN Specialist · Turning ideas into pixels & APIs
+### Full Stack Web Developer · MERN Specialist · Turning ideas into pixels & APIs
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+MERN;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Clean+code+%2B+sharp+UI+%3D+my+thing;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
