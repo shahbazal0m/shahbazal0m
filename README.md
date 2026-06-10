@@ -70,22 +70,6 @@ const shahbaz = {
 
 ## 🏗️ MERN Project Architecture I Love
 
-```
- project/
- ├──   client/               ← React + Tailwind + Framer Motion
- │    ├── components/
- │    ├── pages/
- │    ├── hooks/
- │    └── context/
- │
- ├──   server/               ← Node.js + Express.js
- │    ├── routes/
- │    ├── controllers/
- │    ├── middleware/
- │    └── models/             ← Mongoose schemas
- │
- └──   .env                  ← MongoDB Atlas URI + secrets
-```
 
 ---
 
