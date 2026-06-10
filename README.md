@@ -66,10 +66,6 @@ const shahbaz = {
  
 </div>
 
----
-
-## 🏗️ MERN Project Architecture I Love
-
 
 ---
 
