@@ -60,8 +60,6 @@ const shahbaz = {
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=shahbazal0m&theme=dark&hide_border=false" height="170" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shahbazal0m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  
-[![Shahbaz Alam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahbazal0m&theme=tokyo-night&hide_border=true&area=true&width=900)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 
